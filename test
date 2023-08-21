@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "This is the Library Table of Content for ..\\pwd" >TableofContent
+pwd >> TableofContent
+ls  >> TableofContent
